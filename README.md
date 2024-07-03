@@ -1,0 +1,2 @@
+# Kata.java
+Kata.myPproject
